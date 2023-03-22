@@ -1,3 +1,18 @@
 body {
+    background-color: wheat;
     font-family: 'Alkatra', cursive;
+}
+h1 {
+    background-color: white;
+    color: wheat;
+    text-align: center; 
+    font-size: 20mm;
+}
+nav {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    margin-right: 1400px;
+}
+h2 {
+    text-align: justify;
 }
